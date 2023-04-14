@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">ROVIN SAHRMA</h1>
+<h1 align="center">ROVIN SHARMA</h1>
 <h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span>DOTNET MASTERING</h3>
 
 ----
