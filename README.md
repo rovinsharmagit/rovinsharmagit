@@ -59,7 +59,7 @@ Hi, I'm Rovin😉, 25 years old **Developer** and **Programmer** 👨🏻‍ fro
 
 ### 🛠 &nbsp;Languages and Tools :
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+
 ----
 
 ### 🔥 &nbsp;Github Stats ⚡ :
