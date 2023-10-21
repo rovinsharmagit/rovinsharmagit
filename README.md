@@ -11,7 +11,7 @@
 > Talk is cheap. Show me the code.
 >
 > -Linus Torvalds
-</br>
+
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
@@ -23,10 +23,6 @@ Hi, I'm Rovin😉, 25 years old **Developer** and **Programmer** 👨🏻‍ fro
 </br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-**Skills :** C#, Java, C/C++, JavaScript
-</br>
-**Tools :** Git, Github, VS Code, Linux
-
 
 **Current Status Quo:**
 ----
