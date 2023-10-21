@@ -4,7 +4,7 @@
 <h1 align="center">ROVIN SHARMA</h1>
 <h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span>DOTNET MASTERING</h3>
 
-<div style="text-align: center;">
+<div style="text-align: center; align="center"">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" alt="Status">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776" alt="Playing">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776" alt="VS Code">
@@ -62,9 +62,7 @@ Hi, I'm Rovin😉, 25 years old **Developer** and **Programmer** 👨🏻‍ fro
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 ----
 
-### 🔥 &nbsp; My Stats :
- <summary>Github Stats ⚡</summary>
-  
+### 🔥 &nbsp;Github Stats ⚡ :
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rovinsharmagit&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovinsharmagit&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 ----
