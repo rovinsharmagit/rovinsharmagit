@@ -4,7 +4,7 @@
 <h1 align="center">ROVIN SHARMA</h1>
 <h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span>DOTNET MASTERING</h3>
 
-<div style="text-align: center; align="center"">
+<div style="text-align: center"; align="center">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" alt="Status">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776" alt="Playing">
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776" alt="VS Code">
