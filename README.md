@@ -65,7 +65,7 @@ Hi, I'm Rovin😉, 25 years old **Developer** and **Programmer** 👨🏻‍ fro
 ### 🔥 &nbsp;Github Stats ⚡ :
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rovinsharmagit&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovinsharmagit&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rovinsharmagit=ffflabs\&layout=compact)
+  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rovinsharmagit=ffflabs\&layout=compact)
 ----
 
 <div align=center>
